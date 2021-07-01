@@ -1,5 +1,3 @@
-# PHP-Web-API
-
 first extract this zip in xamp htdocs
 then run xam and on browser go to localhost/phpmyadmin
 create a new database and click on import button now navigate to file to table.sql file import it and then at bottom click go
