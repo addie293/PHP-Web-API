@@ -16,6 +16,6 @@ optional parameter
 page_num should be greater than 0
 page_size should be greater than 100
 
-you will recieve everything in json as according to the document provided.
+you will recieve everything in json.
 
-this api only support get method any other method will give an error of method not supported
+this api only support GET method any other method will give an error of method not supported
